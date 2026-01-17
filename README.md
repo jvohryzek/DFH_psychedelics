@@ -1,1 +1,1 @@
-Codes and data for a paper titled Brain dynamics of classical psychedelics show paradoxical hierarchical flattening with increased complexity<img width="468" height="48" alt="image" src="https://github.com/user-attachments/assets/624d352a-e3db-4b90-b304-1927488fc63f" />
+Codes and data for a paper titled "Brain dynamics of classical psychedelics show paradoxical hierarchical flattening with increased complexity".
